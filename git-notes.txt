@@ -1,0 +1,3 @@
+to remove :
+git rm nama-file.txt
+git add -A  (utk update banyak hal)
