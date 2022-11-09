@@ -1,0 +1,74 @@
+[33mcommit 11017f2ab780fffc8bbfb06e1009f9ecd55690e5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: unknown <kisenda@gmail.com>
+Date:   Thu Nov 10 05:21:37 2022 +0700
+
+    coba update banyak file | git add -A
+
+[33mcommit 0839d2aa7c198a19a89a3890cb048e9fc19ce0de[m
+Author: unknown <kisenda@gmail.com>
+Date:   Wed Nov 9 17:06:54 2022 +0700
+
+    update dong
+
+[33mcommit fb287ea1d98023806d74ec6c2209c3f6f3bb497c[m
+Author: kisenda <kisenda@gmail.com>
+Date:   Tue Oct 25 14:25:21 2022 +0700
+
+    all files added
+
+[33mcommit bf11a0cae5bf3a9ba4b62aecc0f6fb903a8a80f6[m
+Author: kisenda <kisenda@gmail.com>
+Date:   Mon Oct 24 20:01:24 2022 +0700
+
+     add text file coba-2.txt
+
+[33mcommit 390557102bf246180479de6420213fb29f40741a[m
+Author: kisenda <kisenda@gmail.com>
+Date:   Mon Oct 24 19:54:27 2022 +0700
+
+    modified file coba-2.txt
+
+[33mcommit 44881396148178ef430a631bc4ebc56db0e43c77[m
+Author: kisenda <kisenda@gmail.com>
+Date:   Fri Oct 21 19:51:07 2022 +0700
+
+    Add and modified file
+
+[33mcommit dd735ceb6a806be928041ff71b290c91e7e12c1a[m
+Author: kisenda <kisenda@gmail.com>
+Date:   Fri Oct 21 19:36:05 2022 +0700
+
+    Add more text
+
+[33mcommit 8afa24e493a3e25b1e714b8a6b91d44cfe66be2d[m
+Author: unknown <kisenda@gmail.com>
+Date:   Fri Oct 21 13:13:04 2022 +0700
+
+    My First Commit!
+
+[33mcommit 4beb7f097b54ab7cf08daf17972c3ab14432ae24[m
+Merge: 5c05047 e73f914
+Author: Jason Taylor <jason@jasongtaylor.com>
+Date:   Wed Sep 2 02:39:19 2015 -0400
+
+    Merge pull request #6 from jasongtaylor/feature-readme
+    
+    Adding README file
+
+[33mcommit e73f9147e78331b2ea746dc43de5a44953766a76[m
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:25:18 2015 -0400
+
+    Adding Purpose section to README
+
+[33mcommit 34f563b40c4c1519026d2e881c75e97728c45502[m
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:06:05 2015 -0400
+
+    Adding README file
+
+[33mcommit 5c05047e53ecd0913a6f10000014d38829aaecdc[m
+Author: Jason Taylor <jason@screencasts.pro>
+Date:   Thu Sep 11 22:14:19 2014 -0400
+
+    Copying files from initializr project zip file and then creating simple.html as basis for super simple pages

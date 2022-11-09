@@ -1,3 +1,20 @@
 to remove :
 git rm nama-file.txt
 git add -A  (utk update banyak hal)
+git help log
+git log
+utk keluar git log ( ckup tekan 'q' for quit )
+git log --abbrev-commit
+git log --oneline --graph --decorate
+git log 'UUID abbrev commit ke-1'...'UUID abbrev commit ke-5'
+git log --since="3 days ago"
+git log -- coba-2.txt
+
+
+
+git hist ? no respon
+git  config --global alias.hist "log --all --graph --decorate --oneline"     (ada hist sbg alias)
+
+
+utk cek gitconfig
+notepad ~/.gitconfig
