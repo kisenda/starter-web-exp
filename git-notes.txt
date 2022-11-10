@@ -18,3 +18,10 @@ git  config --global alias.hist "log --all --graph --decorate --oneline"     (ad
 
 utk cek gitconfig
 notepad ~/.gitconfig
+
+
+utk meng-ignore file tertentu
+buat file '.gitignore'
+
+nama-file yg diinput di dlm file '.gitignore' , tdk ikut ter-tracking.
+contoh: file gitignore.txt
