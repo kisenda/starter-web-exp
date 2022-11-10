@@ -25,3 +25,6 @@ buat file '.gitignore'
 
 nama-file yg diinput di dlm file '.gitignore' , tdk ikut ter-tracking.
 contoh: file gitignore.txt
+
+to push:
+git push  (enter)
