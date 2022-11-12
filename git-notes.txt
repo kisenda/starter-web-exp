@@ -28,3 +28,7 @@ contoh: file gitignore.txt
 
 to push:
 git push  (enter)
+
+git config --list
+
+git config --global -e
