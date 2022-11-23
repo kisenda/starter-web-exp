@@ -53,3 +53,8 @@ git stash drop stash@{1}
 git stash clear (to wipe out all stash)
 
 rm namaFile (utk remove)
+
+git stash -u  (track all file)
+
+
+git stash branch namaBranch
