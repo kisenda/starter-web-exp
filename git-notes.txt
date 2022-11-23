@@ -43,3 +43,13 @@ git log --oneline
 
 
 git ls-files
+
+
+git stash show
+git stash save "simple changes"
+
+git stash apply stash@{1}
+git stash drop stash@{1}
+git stash clear (to wipe out all stash)
+
+rm namaFile (utk remove)
