@@ -10,6 +10,8 @@
     <name>
 	hi there! please leave a review if you like this course!
 
+	yuk coba
+
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3

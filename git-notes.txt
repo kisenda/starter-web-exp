@@ -32,3 +32,14 @@ git push  (enter)
 git config --list
 
 git config --global -e
+
+
+git diff UUID-numb HEAD
+git diff HEAD HEAD^
+git difftool UUID-numb
+
+
+git log --oneline
+
+
+git ls-files
