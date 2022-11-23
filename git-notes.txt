@@ -57,4 +57,8 @@ rm namaFile (utk remove)
 git stash -u  (track all file)
 
 
-git stash branch namaBranch
+git stash branch 'namaBranch''
+git checkout master
+git merge master
+
+git branch -d 'namaBranch'  (utk delete branch)
