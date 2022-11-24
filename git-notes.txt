@@ -62,3 +62,11 @@ git checkout master
 git merge master
 
 git branch -d 'namaBranch'  (utk delete branch)
+
+git tag myTag
+git log --oneline ---decorate
+git tag --list
+git tag --delete myTag   ('myTag' can be anything)
+
+
+git tag -a ver1.0  (a for anotation)
