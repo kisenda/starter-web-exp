@@ -70,3 +70,8 @@ git tag --delete myTag   ('myTag' can be anything)
 
 
 git tag -a ver1.0  (a for anotation)
+
+git diff ver1.0 ver1.1
+git difftool ver1.0 ver1.1
+
+git tag -a v-0.9-beta 0892d3  (UUID)  utk tambah tag pd UUID spesifik
